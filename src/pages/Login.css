@@ -1,0 +1,9 @@
+.background1 {
+    
+    background-image: url('/Users/mac/Desktop/travel_trace_app/congo-airways/src/images/congo_airways_background.jpg');  
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    height:100vh;
+    
+  }
