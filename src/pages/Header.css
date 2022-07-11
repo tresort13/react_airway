@@ -1,0 +1,31 @@
+.separateur{
+    
+   border-left: 2px solid black;
+   height: 15px;
+    
+  }
+
+  .bordure{
+      border: 5px solid rgb(119, 192, 238);
+  }
+
+  .bordure2{
+    border: 5px solid rgb(19, 154, 238);
+}
+
+  .footer{
+    position: fixed;   
+    bottom: 0px;     
+    width: 100%;  
+    background-color:white;  
+    color: white;  
+    text-align: center;  
+  }
+
+  .zoom {
+    transition: transform .2s; /*animation*/
+  }
+
+  .zoom:hover {
+    transform: scale(1.1); /* 150% zoom-note */
+  }
